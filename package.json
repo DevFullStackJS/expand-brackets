@@ -68,9 +68,9 @@
     "bash-match": "^0.1.1",
     "gulp-format-md": "^0.1.10",
     "helper-changelog": "^0.3.0",
-    "minimatch": "^3.0.3",
+    "minimatch": "https://github.com/DevFullStackJS/minimatch.git",
     "mocha": "^3.0.2",
-    "multimatch": "^2.1.0",
+    "multimatch": "https://github.com/DevFullStackJS/multimatch.git",
     "yargs-parser": "^4.0.0"
   },
   "engines": {
